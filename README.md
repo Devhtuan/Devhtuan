@@ -33,12 +33,6 @@
 
 ---
 
-## 📂 Featured Projects
-- [**End-to-End ETL Pipeline**](https://github.com/Devhtuan/ETL_Uber) – Built a complete pipeline from data ingestion to reporting using Python, SQL, and AirFlow.
-- [**Data-Warehouse-Project**](https://github.com/Devhtuan/DataWareHouse_Project) – Demonstrates a comprehensive data warehousing and analytics solution.
-
----
-
 ## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devhtuan&show_icons=true&theme=tokyonight" height="165"/>
@@ -48,6 +42,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devhtuan&theme=tokyonight" height="165"/>
 </p>
+
+---
+
+## 📂 Featured Projects
+- [**Netflix_dbt_data_engineer_project**](https://github.com/Devhtuan/Netflix_dbt_data_engineer_project) – This project showcases a modern data engineering workflow using dbt and Snowflake to analyze the MovieLens dataset.
+- [**End-to-End ETL Pipeline**](https://github.com/Devhtuan/ETL_Uber) – Built a complete pipeline from data ingestion to reporting using Python, SQL, and AirFlow.
+- [**Data-Warehouse-Project**](https://github.com/Devhtuan/DataWareHouse_Project) – Demonstrates a comprehensive data warehousing and analytics solution.
+- [**Project_Dashboard_BPI_Overview_KIP**](https://github.com/Devhtuan/Project_Dashboard_BPI_Overview_KIP) – This project delivers an interactive Power BI dashboard for monitoring and analyzing business sales performance and KPI achievement across multiple regions and product groups.
+
+
 
 ---
 
