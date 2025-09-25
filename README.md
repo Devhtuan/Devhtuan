@@ -46,6 +46,7 @@
 ---
 
 ## 📂 Featured Projects
+- [**Youtube_Analytics_Data_Engineer_Project**](https://github.com/Devhtuan/Youtube_Analytics_Data_Engineer_Project) – Project to analyze Son Tung MTP Official channel on YouTube with end-to-end pipeline,
 - [**Netflix_dbt_data_engineer_project**](https://github.com/Devhtuan/Netflix_dbt_data_engineer_project) – This project showcases a modern data engineering workflow using dbt and Snowflake to analyze the MovieLens dataset.
 - [**End-to-End ETL Pipeline**](https://github.com/Devhtuan/ETL_Uber) – Built a complete pipeline from data ingestion to reporting using Python, SQL, and AirFlow.
 - [**Data-Warehouse-Project**](https://github.com/Devhtuan/DataWareHouse_Project) – Demonstrates a comprehensive data warehousing and analytics solution.
